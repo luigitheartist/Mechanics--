@@ -4,9 +4,10 @@
 TagManager:
   serializedVersion: 3
   tags:
-  - Powerup
   - Enemy
   - powerupIndicator
+  - powup
+  - Powerup
   layers:
   - Default
   - TransparentFX
